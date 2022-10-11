@@ -14,3 +14,4 @@ defaults:
           path: "_tutorials"
       values:
           layout: "tutorial"
+          excerpt_separator: "<!--more-->"
