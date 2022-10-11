@@ -13,5 +13,5 @@ defaults:
     - scope:
           path: "_tutorials"
       values:
-          layout: "tutorial"
+          layout: "default"
           excerpt_separator: "<!--more-->"
