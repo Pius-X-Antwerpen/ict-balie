@@ -1,3 +1,7 @@
+---
+title: "Smartschool login voor ouders"
+---
+
 # Smartschool login voor ouders
 
 ## Waar vind ik de login gegevens voor ouders?
