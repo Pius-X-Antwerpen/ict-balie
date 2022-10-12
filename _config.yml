@@ -15,3 +15,6 @@ defaults:
       values:
           layout: "default"
           excerpt_separator: "<!--more-->"
+
+exclude:
+    - "*.draft.md"
