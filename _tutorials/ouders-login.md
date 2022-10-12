@@ -1,14 +1,18 @@
 ---
 title: "Smartschool login voor ouders"
+zoektermen:
+ - login
+ - smartschool
+ - ouders
 ---
 
 # Smartschool login voor ouders
 
-## Waar vind ik de login gegevens voor ouders?
+## Symptomen
 
-Ouders hebben hun login gegevens normaal gezien gekregen in een brief.
+Je ouders zijn hun login gegevens vergeten of verloren om zich te kunnen aanmelden op Smartschool.
 
-## Wat moeten ouders doen als ze hun login gegevens zijn vergeten?
+## Oplossingen
 
 Stuur een e-mail naar [info@piustien.net](mailto:info@piustien.net).
 

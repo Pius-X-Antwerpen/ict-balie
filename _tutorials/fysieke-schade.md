@@ -1,10 +1,20 @@
 ---
 title: Mijn apparaat is stuk
+zoektermen:
+ - kapot
+ - stuk
+ - laptop
+ - tablet
+ - ipad
+ - schade
+ - scherm
+ - gebroken
+ - val
 ---
 
 # Mijn apparaat heeft fysieke schade
 
-## Wat is fysieke schade?
+## Symptomen
 
 Fysieke schade is alles dat je kan *zien* dat er mis is met het toestel wanneer het is *uitgeschakeld*.
 
@@ -15,6 +25,6 @@ Fysieke schade is alles dat je kan *zien* dat er mis is met het toestel wanneer 
  - Een deuk in het toestel
  - ...
 
-## Wat moet ik doen als mijn toestel fysieke schade heeft?
+## Oplossingen
 
-Je gaat langs de **ICT dienst**. Je vindt de ICT dienst terug op de **3e verdieping**, in de gang van de financiële dienst.
+In het geval van fysieke schade, moeten we zelf de schade bekijken en (indien nodig) je toestel laten repareren. Hiervoor ga je langs de **ICT dienst**. Je vindt de ICT dienst terug op de **3e verdieping**, in de gang van de financiële dienst.
