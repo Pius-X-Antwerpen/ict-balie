@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+  
+  {% for tutorial in site.tutorials %}
+    {
+
+      "title"       :   "{{ tutorial.title | escape }}",
+      "tags"        :   "{{ tutorial.zoektermen | join: ', ' }}",
+      "url"         :   "{{site.baseurl}}{{ tutorial.url }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
