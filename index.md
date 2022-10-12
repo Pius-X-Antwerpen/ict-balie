@@ -13,7 +13,7 @@ title: "ICT balie"
     var sjs = SimpleJekyllSearch({
         searchInput: document.getElementById('searchbarInput'),
         resultsContainer: document.getElementById('searchbarOutput'),
-        json: '/assets/data/search.json'
+        json: '{{site.baseurl}}/assets/data/search.json'
     });
 </script>
 
