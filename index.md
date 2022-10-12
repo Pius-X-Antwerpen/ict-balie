@@ -5,6 +5,7 @@ title: "ICT balie"
 # ICT-balie
 
 <input id="searchbarInput" class="search-bar__input">
+<div id="searchbarOutput></div>
 
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 <script>
