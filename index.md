@@ -12,5 +12,8 @@ title: "ICT balie"
         </h3>
         <article>{{ tutorial.excerpt }}</article>
     </li>
+
+---
+
 {% endfor %}
 </ul>
