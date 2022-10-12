@@ -14,20 +14,6 @@ title: "ICT balie"
         resultsContainer: document.getElementById('searchbarOutput'),
         json: '/assets/data/search.json'
     });
-
-    document.querySelectorAll("span.tag").forEach(el => {
-        el.addEventListener("click", e => {
-            let val = e.target.innerHTML;
-            document.querySelector("#searchbarInput").value = val;
-            console.log(e.target);
-
-            let event = new Event('input', {
-                bubbles: true,
-                cancelable: true,
-            });
-            document.querySelector("#searchbarInput").dispatchEvent(event);
-        });
-    });
 </script>
 
 <ul>
