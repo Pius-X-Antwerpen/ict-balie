@@ -1,6 +1,11 @@
 ---
 title: Mijn geluid werkt niet meer
 zoektermen: 
+ - laptop
+ - geluid
+ - speakers
+ - surface
+ - hp
 ---
 
 # Mijn geluid werkt niet meer
