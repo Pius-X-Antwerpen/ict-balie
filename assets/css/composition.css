@@ -46,6 +46,11 @@ main {
         1fr;
 }
 
+#searchbar {
+    position: relative;
+}
+
+
 #searchbarOutput {
     position: absolute;
     top: 100%;
