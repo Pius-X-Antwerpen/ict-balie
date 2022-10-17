@@ -45,3 +45,7 @@ main {
         min(100ch, calc(100vw - var(--activity-bar-size) - 3rem)) 
         1fr;
 }
+
+#searchbarOutput {
+    position: absolute;
+}
