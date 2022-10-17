@@ -3,7 +3,7 @@
         <ul id="nav-homegroup" class="activity-bar-group | bg-contrast" tabindex="0">
             {% assign pages = "home,blog,news" | split: ',' %}
             <li><label class="material-icons-outlined" {% if pages contains page.activity %} data-state="selected" {% endif %}>home</label></li>
-            <li><a href="/{{site.baseurl}}/" data-tooltip="home" {% if page.activity=="home" %} data-state="selected" {% endif %}><span class="material-icons-outlined">home</span></a></li>
+            <li><a href="{{site.baseurl}}/" data-tooltip="home" {% if page.activity=="home" %} data-state="selected" {% endif %}><span class="material-icons-outlined">home</span></a></li>
             {% if page.activity=="blog" %}
             <li><label data-tooltip="blog" data-state="selected" for="blog-button"><span class="material-icons-outlined">text_snippet</span></label></li>
             {% else %}
