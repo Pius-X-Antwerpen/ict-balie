@@ -5,16 +5,11 @@ layout: tutorial
 
 # ICT-balie
 
-<ul>
-{% for tutorial in site.tutorials %}
-    <li>
-        <h3>
-            <a href="{{site.baseurl}}/{{ tutorial.url }}">{{ tutorial.title }}</a>
-        </h3>
-        <article>{{ tutorial.excerpt }}</article>
+<ul id="blog-overview">
+    {% for tutorial in site.tutorials %}
+    <li class="bg-complement elevated-low rounded">
+        <a href="{{ tutorial.url }}">{{ tutorial.title }}</a>
+        <p>{{ tutorial.excerpt }}</p>
     </li>
-
-    <hr>
-
-{% endfor %}
+    {% endfor %}
 </ul>
