@@ -3,19 +3,19 @@
         <ul id="nav-homegroup" class="activity-bar-group | bg-contrast" tabindex="0">
             {% assign pages = "home,blog,news" | split: ',' %}
             <li><label class="material-icons-outlined" {% if pages contains page.activity %} data-state="selected" {% endif %}>home</label></li>
-            <li><a href="/" data-tooltip="home" {% if page.activity=="home" %} data-state="selected" {% endif %}><span class="material-icons-outlined">home</span></a></li>
+            <li><a href="/{{site.baseurl}}/" data-tooltip="home" {% if page.activity=="home" %} data-state="selected" {% endif %}><span class="material-icons-outlined">home</span></a></li>
             {% if page.activity=="blog" %}
             <li><label data-tooltip="blog" data-state="selected" for="blog-button"><span class="material-icons-outlined">text_snippet</span></label></li>
             {% else %}
-            <li><a href="/blog.html" data-tooltip="blog"><span class="material-icons-outlined">text_snippet</span></a></li>
+            <li><a href="{{site.baseurl}}//blog.html" data-tooltip="blog"><span class="material-icons-outlined">text_snippet</span></a></li>
             {% endif %}
         </ul>
         <ul id="nav-contactgroup" class="activity-bar-group | bg-contrast" tabindex="0">
             {% assign pages = "contact,calendar" | split: ',' %}
             <li><label class="material-icons-outlined" {% if pages contains page.activity %} data-state="selected" {% endif %}>email</label></li>
             <!-- <li><a href="/contact.html" data-tooltip="contact" {% if page.activity=="contact" %} data-state="selected" {% endif %}><span class="material-icons-outlined">email</span></a></li> -->
-            <li><a href="/calendar.html" data-tooltip="kalender" {% if page.activity=="calendar" %} data-state="selected" {% endif %}><span class="material-icons-outlined">event</span></a></li>
-            <li><a href="/links.html" data-tooltip="links" {% if page.activity=="links" %} data-state="selected" {% endif %}><span class="material-icons-outlined">list_alt</span></a></li>
+            <li><a href="{{site.baseurl}}//calendar.html" data-tooltip="kalender" {% if page.activity=="calendar" %} data-state="selected" {% endif %}><span class="material-icons-outlined">event</span></a></li>
+            <li><a href="{{site.baseurl}}//links.html" data-tooltip="links" {% if page.activity=="links" %} data-state="selected" {% endif %}><span class="material-icons-outlined">list_alt</span></a></li>
         </ul>
     </div>
     <div>
