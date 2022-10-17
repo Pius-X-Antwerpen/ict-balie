@@ -1,0 +1,14 @@
+
+    <nav id="explorer__blog" class="fixed-foldout | bg-complement elevated-medium">
+        <label for="blog-button" class="explorer-closebutton material-icons-outlined small-icon">close</label>
+        <ul class="explorer-group">
+            <li>
+                <a href="/blog.html">Blog Overview</a>
+            </li>
+            {% for tutorial in site.tutorials %}
+            <li>
+                <a href="{{site.baseurl}}/{{ tutorial.url }}">{{ tutorial.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
