@@ -13,7 +13,7 @@ defaults:
     - scope:
           path: ""
       values:
-          activity: "home"
+          activity: "bla"
     - scope:
           path: "_tutorials"
       values:
