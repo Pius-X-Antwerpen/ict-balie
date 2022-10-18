@@ -8,8 +8,6 @@ zoektermen:
  - hp
 ---
 
-# Mijn geluid werkt niet meer
-
 ## Symptomen
 
 Het geluid op mijn Surface of HP laptop werkt niet meer.

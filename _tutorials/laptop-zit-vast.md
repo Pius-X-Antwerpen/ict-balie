@@ -11,8 +11,6 @@ zoektermen:
  - scherm
 ---
 
-# Mijn Surface of HP laptop is vastgelopen
-
 ## Symptomen
 
 Je laptop (Surface of HP) reageert niet meer. Je scherm kan zwart zijn, of blijft vast hangen op hetzelfde beeld.

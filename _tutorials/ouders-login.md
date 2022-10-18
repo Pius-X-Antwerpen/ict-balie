@@ -6,8 +6,6 @@ zoektermen:
  - ouders
 ---
 
-# Smartschool login voor ouders
-
 ## Symptomen
 
 Je ouders zijn hun login gegevens vergeten of verloren om zich te kunnen aanmelden op Smartschool.

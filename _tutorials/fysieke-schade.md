@@ -1,5 +1,5 @@
 ---
-title: Mijn apparaat is stuk
+title: Mijn apparaat heeft fysieke schade
 zoektermen:
  - kapot
  - stuk
@@ -11,8 +11,6 @@ zoektermen:
  - gebroken
  - val
 ---
-
-# Mijn apparaat heeft fysieke schade
 
 ## Symptomen
 
