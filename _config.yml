@@ -18,7 +18,7 @@ defaults:
     - scope:
           path: "_tutorials"
       values:
-          layout: "tutorials"
+          layout: "tutorial"
           activity: "tutorials"
           excerpt_separator: "<!--more-->"
 
