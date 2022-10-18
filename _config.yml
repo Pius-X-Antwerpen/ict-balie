@@ -15,6 +15,7 @@ defaults:
       values:
           layout: "default"
           excerpt_separator: "<!--more-->"
+          activity: "tutorials"
 
 exclude:
     - "*.draft.md"
