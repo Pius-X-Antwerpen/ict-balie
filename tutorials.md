@@ -1,6 +1,7 @@
 ---
 title: "ICT balie"
 layout: tutorial
+activity: tutorials
 ---
 
 # ICT-balie
