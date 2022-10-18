@@ -13,9 +13,12 @@ defaults:
     - scope:
           path: "_tutorials"
       values:
-          layout: "default"
           excerpt_separator: "<!--more-->"
-          activity: "tutorials"
+          activity: "tutorials
+    - scope:
+          path: ""
+      values:
+          activity: "home""
 
 exclude:
     - "*.draft.md"
