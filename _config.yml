@@ -11,14 +11,14 @@ collections:
 
 defaults:
     - scope:
+          path: ""
+      values:
+          activity: "home"
+    - scope:
           path: "_tutorials"
       values:
           excerpt_separator: "<!--more-->"
           activity: "tutorials"
-    - scope:
-          path: ""
-      values:
-          activity: "home"
 
 exclude:
     - "*.draft.md"
