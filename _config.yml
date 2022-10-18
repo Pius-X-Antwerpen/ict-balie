@@ -13,10 +13,12 @@ defaults:
     - scope:
           path: ""
       values:
+          layout: "default"
           activity: "home"
     - scope:
           path: "_tutorials"
       values:
+          layout: "tutorials"
           activity: "tutorials"
           excerpt_separator: "<!--more-->"
 
