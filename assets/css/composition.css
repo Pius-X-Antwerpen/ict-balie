@@ -60,13 +60,13 @@ main a {
     font-size: inherit;
 }
 
-#blog-overview {
+#tutorials-overview {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
-#blog-overview>* {
+#tutorials-overview>* {
     padding: 1rem;
     margin-bottom: 2rem;
 }
@@ -486,13 +486,13 @@ input:checked+.subjectStudentGrade {
     display: flex;
     justify-content: space-between;
 }
-#blog-content ul {
+#tutorials-content ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-#blog-content ul ul {
+#tutorials-content ul ul {
     list-style: initial;
     margin: initial;
     padding: initial;

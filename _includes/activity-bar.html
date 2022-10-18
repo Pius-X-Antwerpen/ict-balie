@@ -1,13 +1,13 @@
 <nav id="activity-bar" class="bg-contrast text-complement">
     <div>
         <ul id="nav-homegroup" class="activity-bar-group | bg-contrast" tabindex="0">
-            {% assign pages = "home,blog,news" | split: ',' %}
+            {% assign pages = "home,tutorials,news" | split: ',' %}
             <li><label class="material-icons-outlined" {% if pages contains page.activity %} data-state="selected" {% endif %}>home</label></li>
             <li><a href="{{site.baseurl}}/" data-tooltip="home" {% if page.activity=="home" %} data-state="selected" {% endif %}><span class="material-icons-outlined">home</span></a></li>
-            {% if page.activity=="blog" %}
-            <li><label data-tooltip="blog" data-state="selected" for="blog-button"><span class="material-icons-outlined">text_snippet</span></label></li>
+            {% if page.activity=="tutorials" %}
+            <li><label data-tooltip="tutorials" data-state="selected" for="tutorials-button"><span class="material-icons-outlined">text_snippet</span></label></li>
             {% else %}
-            <li><a href="{{site.baseurl}}/blog.html" data-tooltip="blog"><span class="material-icons-outlined">text_snippet</span></a></li>
+            <li><a href="{{site.baseurl}}/tutorials.html" data-tooltip="tutorials"><span class="material-icons-outlined">text_snippet</span></a></li>
             {% endif %}
         </ul>
         <ul id="nav-contactgroup" class="activity-bar-group | bg-contrast" tabindex="0">
