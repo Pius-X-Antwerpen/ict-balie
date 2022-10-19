@@ -21,4 +21,5 @@ Stuur een e-mail naar [info@piustien.net](mailto:info@piustien.net).
 > Mijn naam is .........., ik ben de ouder van ............. Ik ben de inlog gegevens vergeten om in te loggen op Smartschool. Kunt u mij deze gegevens bezorgen?
 > 
 > Met vriendelijke groeten,
+> 
 > ............
