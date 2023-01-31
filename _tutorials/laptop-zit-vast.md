@@ -17,6 +17,8 @@ Je laptop (Surface of HP) reageert niet meer. Je scherm kan zwart zijn, of blijf
 
 ## Oplossingen
 
+Zucht...
+
 ### Oplossing 1
 
  1. Hou de aan/uit knop 10-15 seconden ingedrukt, tot het toestel uit staat. 
