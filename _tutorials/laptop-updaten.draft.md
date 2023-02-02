@@ -1,14 +1,20 @@
 ---
-title: Hoe update ik mijn laptop?
+title: Hoe update ik mijn surface / hp?
 zoektermen:
  - updaten
  - laptop
  - hp
  - surface
+ - printen
 ---
 
 ## Symptomen
-
+Je moet je surface of hp updaten.
 
 
 ## Oplossingen
+
+1. Je drukt op het windows teken (de knop recht van ctrl).
+2. Je typt op de zoekbalk "instellingen voor windows update"
+3. Je drukt op de knop "naar updates zoeken"
+4. Je drukt op "downloaden en installeren"
