@@ -15,7 +15,7 @@ Je moet je surface of hp updaten.
 
 ## Oplossingen
 
-1. Je drukt op het windows teken (de knop recht van ctrl).
+1. Je drukt op het windows teken (de knop recht van Fn).
 2. Je typt op de zoekbalk "instellingen voor windows update".
 3. Je drukt op de knop "naar updates zoeken".
 4. Je drukt op de knop "downloaden en installeren".
