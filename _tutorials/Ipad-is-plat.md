@@ -13,6 +13,5 @@ Als je ipad niet meer aangaat en er komt een pictogram van een lege batterij te 
 
 ## Oplossingen
 
-Vergeet je ipad niet te laten laden wanneer je slaapt anders kom je langs de ICT-balie en we zullen je ipad in de oplader steken.
-
-**Opgelet!**: Om stress te vermijden kom je best optijd langs als je een presentatie of test hebt te maken op de ipad.
+Vergeet niet om je iPad tijdens het slapen op te laden, anders moet je langs de ICT-balie komen en zullen ze je iPad in de oplader steken. 
+**Let op:** Om stress te vermijden, is het beter om op tijd langs te komen als je een presentatie of toets op de iPad moet maken.

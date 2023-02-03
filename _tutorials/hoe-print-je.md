@@ -34,7 +34,7 @@ als 'Uniflow SmartClient' al is geïnstalleerd, hoeft u alleen nog de stappen 4 
 ### laatste hoop
 Als de bovenstaande manieren om te printen niet werken, is er nog een laatste manier om te printen die werkt voor leerlingen van de eerste, tweede en derde graad. **Let op** dit werkt niet als het bestand dat je per e-mail verzendt geen PDF is.
 
-1. Ga naar office.com en log in met je e-mailadres
+1. Ga naar [office.com](https://www.office.com/?auth=2) en log in met je e-mailadres
 2. Klik op Outlook links van je scherm om naar je mailbox te gaan.
 3. Klik op het pictogram 'Nieuw bericht' om een nieuwe e-mail te openen.
 4. Voer het e-mailadres van print@piustien.net in het veld 'Aan' in.

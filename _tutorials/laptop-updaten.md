@@ -21,3 +21,5 @@ Je moet je surface of hp updaten.
 4. Je drukt op de knop "downloaden en installeren".
 5. Je drukt op de knop "restart".
 6. Na dat je surface/hp opnieuw is opgestart, voer stap 1-3 opnieuw uit tot er komt te staan dat je toestel up-to-date is. 
+
+Normaal gesproken zou de laptop nu volledig upgedate moeten zijn.
