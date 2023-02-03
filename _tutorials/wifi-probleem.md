@@ -17,4 +17,4 @@ Soms lost een simpele verbreking en opnieuw verbinden van de Wi-Fi-verbinding he
 
 ### Updates installeren:
 
-Oude of verouderde software of besturingssystemen kunnen problemen veroorzaken met de Wi-Fi-verbinding. Probeer de laatste updates voor de laptop en het besturingssysteem te installeren om problemen op te lossen. Druk [hier](updaten.md) om te zien hoe je het best update.
+Oude of verouderde software of besturingssystemen kunnen problemen veroorzaken met de Wi-Fi-verbinding. Probeer de laatste updates voor de laptop en het besturingssysteem te installeren om problemen op te lossen. Druk [hier](/_tutorials/updaten.md) om te zien hoe je het best update.
