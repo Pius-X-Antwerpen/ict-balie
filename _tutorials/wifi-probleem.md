@@ -11,8 +11,6 @@ Als je problemen hebt met wifi.
 
 ## Oplossingen
 
-### Verbinding herstellen:
-
 ### Problemen met Wi-Fi oplossen
 
 Soms lost een eenvoudige verbreking en het opnieuw verbinden van de Wi-Fi-verbinding het probleem op. Hier is hoe je dit kunt doen:

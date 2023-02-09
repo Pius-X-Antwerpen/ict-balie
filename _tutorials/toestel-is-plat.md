@@ -8,8 +8,8 @@ zoektermen:
 ---
 
 ## Symptomen
-Als je ipad of laptop niet meer aangaat, er komt op je ipad een pictogram van een lege batterij te voorschijn.
 
+Als je ipad of laptop niet meer aangaat, er komt op je ipad een pictogram van een lege batterij te voorschijn.
 
 ## Oplossingen
 

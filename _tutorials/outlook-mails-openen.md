@@ -24,4 +24,4 @@ Als je problemen ondervindt met het openen van e-mails via de Outlook-applicatie
 5. Log in met je school-e-mailadres.
 6. Nu kun je al je e-mails openen.
 
-**Opmerking:** Het is aanbevolen om je e-mails enkel via de browser te openen.
+**Opmerking:** het is aanbevolen om je e-mails enkel via de browser te openen.
